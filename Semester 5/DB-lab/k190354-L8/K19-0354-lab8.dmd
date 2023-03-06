@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="K19-0354-lab8" id="99ED609F-B8D3-7436-95BE-56A7E9C849D6" version="3.5">
+<createdBy>Saman Khan</createdBy>
+<createdTime>2021-11-04 12:54:15 UTC</createdTime>
+<ownerDesignName>K19-0354-lab8</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>99ED609F-B8D3-7436-95BE-56A7E9C849D6</designId>
+</OSDM_Design>
