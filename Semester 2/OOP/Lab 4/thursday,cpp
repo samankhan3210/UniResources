@@ -1,0 +1,40 @@
+#include <iostream>
+using namespace std;
+// Operator Overloading
+
+class Vector
+{
+	int x, y;
+
+public:
+	Vector(int x, int y)
+	{
+		this->x = x;
+		this->y = y;
+	}
+	Vector()
+	{
+	}
+
+	void show()
+	{
+		cout << "x = " << x << " and y = " << y << endl;
+	}
+
+	friend void operator <<(ostream&, Vector);
+};
+
+//global operator overload
+void operator << (ostream& o, Vector ob)
+{
+	o << "x: " << ob.x << " " << ob.y << endl;
+}
+
+
+int main()
+{
+	Vector v1(2, 3);
+	Vector v2(4, 5);
+	Vector v3(3, 2);
+    cout << v1;  
+}
