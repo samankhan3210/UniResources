@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_YerskEiMEeyaiL3Oi8PDUQ" name="Q3">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_Yffk4EiMEeyaiL3Oi8PDUQ">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Activity" xmi:id="_Ye4g4EiMEeyaiL3Oi8PDUQ" name="Activity1" node="_ZqbG8EiMEeyaiL3Oi8PDUQ _hhPSMEiMEeyaiL3Oi8PDUQ _jMhvUEiMEeyaiL3Oi8PDUQ _mfmCkEiMEeyaiL3Oi8PDUQ _sQmX4EiMEeyaiL3Oi8PDUQ _twvU8EiMEeyaiL3Oi8PDUQ _yGB6MEiMEeyaiL3Oi8PDUQ _9BSG0EiMEeyaiL3Oi8PDUQ">
+    <edge xmi:type="uml:ControlFlow" xmi:id="_6SzR4EiNEeyaiL3Oi8PDUQ" target="_hhPSMEiMEeyaiL3Oi8PDUQ" source="_ZqbG8EiMEeyaiL3Oi8PDUQ"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_9_8SAEiNEeyaiL3Oi8PDUQ" target="_jMhvUEiMEeyaiL3Oi8PDUQ" source="_hhPSMEiMEeyaiL3Oi8PDUQ"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_-9hUkEiNEeyaiL3Oi8PDUQ" target="_mfmCkEiMEeyaiL3Oi8PDUQ" source="_jMhvUEiMEeyaiL3Oi8PDUQ"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_AGFfIEiOEeyaiL3Oi8PDUQ" target="_sQmX4EiMEeyaiL3Oi8PDUQ" source="_mfmCkEiMEeyaiL3Oi8PDUQ"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_A61V0EiOEeyaiL3Oi8PDUQ" target="_twvU8EiMEeyaiL3Oi8PDUQ" source="_sQmX4EiMEeyaiL3Oi8PDUQ"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_EJTc8EiOEeyaiL3Oi8PDUQ" target="_yGB6MEiMEeyaiL3Oi8PDUQ" source="_twvU8EiMEeyaiL3Oi8PDUQ"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_FN8JwEiOEeyaiL3Oi8PDUQ" target="_9BSG0EiMEeyaiL3Oi8PDUQ" source="_yGB6MEiMEeyaiL3Oi8PDUQ"/>
+    <node xmi:type="uml:InitialNode" xmi:id="_ZqbG8EiMEeyaiL3Oi8PDUQ" name="" outgoing="_6SzR4EiNEeyaiL3Oi8PDUQ"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_hhPSMEiMEeyaiL3Oi8PDUQ" name="generate the date" incoming="_6SzR4EiNEeyaiL3Oi8PDUQ" outgoing="_9_8SAEiNEeyaiL3Oi8PDUQ"/>
+    <node xmi:type="uml:CreateObjectAction" xmi:id="_jMhvUEiMEeyaiL3Oi8PDUQ" name="create my friend obejct" incoming="_9_8SAEiNEeyaiL3Oi8PDUQ" outgoing="_-9hUkEiNEeyaiL3Oi8PDUQ"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_mfmCkEiMEeyaiL3Oi8PDUQ" name="print my friend details" incoming="_-9hUkEiNEeyaiL3Oi8PDUQ" outgoing="_AGFfIEiOEeyaiL3Oi8PDUQ"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_sQmX4EiMEeyaiL3Oi8PDUQ" name="generate date" incoming="_AGFfIEiOEeyaiL3Oi8PDUQ" outgoing="_A61V0EiOEeyaiL3Oi8PDUQ"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_twvU8EiMEeyaiL3Oi8PDUQ" name="create my friend father object" incoming="_A61V0EiOEeyaiL3Oi8PDUQ" outgoing="_EJTc8EiOEeyaiL3Oi8PDUQ"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_yGB6MEiMEeyaiL3Oi8PDUQ" name="print my friend father details" incoming="_EJTc8EiOEeyaiL3Oi8PDUQ" outgoing="_FN8JwEiOEeyaiL3Oi8PDUQ"/>
+    <node xmi:type="uml:FlowFinalNode" xmi:id="_9BSG0EiMEeyaiL3Oi8PDUQ" name="" incoming="_FN8JwEiOEeyaiL3Oi8PDUQ"/>
+  </packagedElement>
+</uml:Model>

@@ -1,0 +1,38 @@
+import java.util.*;
+
+class CheckPayment 
+{
+	public static void main(String[] args) 
+	{
+		private static int days=0;
+		private bool check_pay;
+		private  bool client_pay;
+		while(1){
+			System.out.println("Recieve Payment request");
+			if(days>5 && check_pay==false)
+			{
+				System.out.println("Contact client");
+				if (client_pay == true) 
+				{                  			
+					days++;
+                    			continue;
+				}
+				else
+				{
+					System.out.println("Booking Cancelled");
+                    			break;
+				}
+			}
+			else if(check_pay==true) 
+			{
+				System.out.println("Booking Confirmed");
+                		break;
+			}
+			else
+			{
+				days++;
+			}
+		}
+		System.out.println("Send lesson confirmation/cancellation receipt!");
+	}
+}
