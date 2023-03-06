@@ -1,0 +1,12 @@
+TITLE My First Pogram (Task5.txt)
+INCLUDE Irvine32.inc
+
+.code
+main PROC
+mov eax,1Bh
+add eax,5Ah
+call DumpRegs
+exit
+main ENDP
+
+END main

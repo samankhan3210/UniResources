@@ -1,0 +1,3 @@
+Postfix expression : ABC*D/+E-
+Prefix expression : -+A/*BCDE
+Postfix expression : ABC*D/+E-

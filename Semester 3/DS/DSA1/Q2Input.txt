@@ -1,0 +1,8 @@
+Size of the array : 5
+
+Array : 
+143 
+21 
+7 
+12 
+341 
