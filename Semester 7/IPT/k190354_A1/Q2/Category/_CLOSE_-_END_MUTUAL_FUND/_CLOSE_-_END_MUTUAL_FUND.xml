@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <Scripts>
+    <Script>HBL Growth Fund  </Script>
+    <Price> 5.50</Price>
+  </Scripts>
+  <Scripts>
+    <Script>HBL Investment Fund  </Script>
+    <Price> 1.96</Price>
+  </Scripts>
+</xml>

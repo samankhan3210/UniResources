@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <Scripts>
+    <Script>Abdullah Shah Ghazi Sugar Mills Ltd.  </Script>
+    <Price> 7.95</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Al-Abbas Sugar Mills Ltd.  </Script>
+    <Price> 300</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Al-Noor Sugar Mills Ltd.  </Script>
+    <Price> 69.37</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Chashma Sugar Mills Ltd.  </Script>
+    <Price> 63.17</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Dewan Sugar Mills Ltd. [ DEFAULTER SEGMENT ] </Script>
+    <Price> 2.10</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Habib Sugar Mills Ltd.  </Script>
+    <Price> 31.60</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Jauharabad Sugar Mills Ltd.  </Script>
+    <Price> 14.65</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Mehran Sugar Mills Ltd.(XB)  </Script>
+    <Price> 35.55</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Sakrand Sugar Mills Ltd. [ DEFAULTER SEGMENT ] </Script>
+    <Price> 9.26</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Shahmurad Sugar Mills Ltd.  </Script>
+    <Price> 105</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Shahtaj Sugar Mills Ltd.  </Script>
+    <Price> 49.80</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Tandliawala Sugar Mills Ltd.  </Script>
+    <Price> 104.65</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Thal Industries Corporation Ltd.  </Script>
+    <Price> 256.22</Price>
+  </Scripts>
+</xml>

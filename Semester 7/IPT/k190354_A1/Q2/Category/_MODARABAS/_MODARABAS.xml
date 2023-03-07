@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <Scripts>
+    <Script>B.F.Modaraba.  </Script>
+    <Price> 5.45</Price>
+  </Scripts>
+  <Scripts>
+    <Script>B.R.R. Guardian Modaraba.  </Script>
+    <Price> 11</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First Al-Noor Mod.  </Script>
+    <Price> 3.90</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First Elite Capital Mod.  </Script>
+    <Price> 3.20</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First Equity Mod.  </Script>
+    <Price> 8</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First Habib Mod.  </Script>
+    <Price> 8.96</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First Pak Mod.  </Script>
+    <Price> 2.07</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First Prudential Mod.  </Script>
+    <Price> 1.74</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First Punjab Mod.  </Script>
+    <Price> 1.63</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First Tri-Star Mod.  </Script>
+    <Price> 6.83</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First UDL Mod.  </Script>
+    <Price> 7.40</Price>
+  </Scripts>
+  <Scripts>
+    <Script>KASB Modaraba.  </Script>
+    <Price> 1.50</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Modarba Al-Mali.  </Script>
+    <Price> 6</Price>
+  </Scripts>
+  <Scripts>
+    <Script>OLP Modaraba.  </Script>
+    <Price> 15.99</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Orient Rental Modaraba.  </Script>
+    <Price> 6.37</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Sindh Modaraba.  </Script>
+    <Price> 8.01</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Trust Mod.  </Script>
+    <Price> 1.82</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Unicap Modaraba.  </Script>
+    <Price> 2.25</Price>
+  </Scripts>
+</xml>

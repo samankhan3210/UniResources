@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <Scripts>
+    <Script>EMCO Industries Ltd.(XD)  </Script>
+    <Price> 23</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Johnson &amp; Philips (Pak) Ltd.  </Script>
+    <Price> 35.94</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pak Elektron Ltd.  </Script>
+    <Price> 16.07</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan Cables Ltd.(XB)  </Script>
+    <Price> 119.98</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Siemens (Pak) Eng. Co. Ltd.  </Script>
+    <Price> 754.30</Price>
+  </Scripts>
+  <Scripts>
+    <Script>WAVES Corporation Limited  </Script>
+    <Price> 11.54</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Waves Home Appliances Ltd.  </Script>
+    <Price> 10.70</Price>
+  </Scripts>
+</xml>

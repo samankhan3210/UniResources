@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <Scripts>
+    <Script>Adamjee Insurance Co. Ltd.  </Script>
+    <Price> 30</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Adamjee Life Assurance Co. Ltd.  </Script>
+    <Price> 19.48</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Askari Gen Insurance Co.  </Script>
+    <Price> 17</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Askari Life Assurance Company Ltd.  </Script>
+    <Price> 6.24</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Atlas Insurance Limited.  </Script>
+    <Price> 53.16</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Cresent Star Insurance Ltd.  </Script>
+    <Price> 1.79</Price>
+  </Scripts>
+  <Scripts>
+    <Script>E. F. U. Gen Insurance Ltd.  </Script>
+    <Price> 100</Price>
+  </Scripts>
+  <Scripts>
+    <Script>EFU Life Assurance Ltd.  </Script>
+    <Price> 187.50</Price>
+  </Scripts>
+  <Scripts>
+    <Script>IGI Holdings Limited.  </Script>
+    <Price> 98.50</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Jubilee General Insurance Co.Ltd.  </Script>
+    <Price> 29.85</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan General Insurance Co. [ DEFAULTER SEGMENT ] </Script>
+    <Price> 5.86</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan Reinsurance Comp.  </Script>
+    <Price> 7.43</Price>
+  </Scripts>
+  <Scripts>
+    <Script>PICIC Insurance Ltd. [ DEFAULTER SEGMENT ] </Script>
+    <Price> 0.98</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Reliance Insurance.  </Script>
+    <Price> 6.55</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Shaheen Insurance Co Ltd.  </Script>
+    <Price> 3.44</Price>
+  </Scripts>
+  <Scripts>
+    <Script>TPL Insurance Ltd.  </Script>
+    <Price> 24.50</Price>
+  </Scripts>
+  <Scripts>
+    <Script>United Insurance Company.  </Script>
+    <Price> 7.51</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Universal Insurance Company Ltd.  </Script>
+    <Price> 3.40</Price>
+  </Scripts>
+</xml>

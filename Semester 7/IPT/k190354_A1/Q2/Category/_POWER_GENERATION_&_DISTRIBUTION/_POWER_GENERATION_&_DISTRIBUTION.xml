@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <Scripts>
+    <Script>Altern Energy Ltd.  </Script>
+    <Price> 17.80</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Engro Powergen Qadirpur Ltd.  </Script>
+    <Price> 22.34</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Hub Power Company Limited.  </Script>
+    <Price> 77.52</Price>
+  </Scripts>
+  <Scripts>
+    <Script>K-Electric Limited.  </Script>
+    <Price> 2.99</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Kohinoor Energy Ltd.  </Script>
+    <Price> 34</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Kot Addu Power Company.  </Script>
+    <Price> 30.24</Price>
+  </Scripts>
+  <Scripts>
+    <Script>LALPIR Power Limited.  </Script>
+    <Price> 12.61</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Nishat Chunian Power Ltd.  </Script>
+    <Price> 13.26</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Nishat Power Limited.  </Script>
+    <Price> 21.77</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakgen Power Limited.  </Script>
+    <Price> 19.43</Price>
+  </Scripts>
+  <Scripts>
+    <Script>S. G. Power Ltd.  </Script>
+    <Price> 4.59</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Saif Power Ltd.  </Script>
+    <Price> 17.93</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Sitara Enengy Ltd.  </Script>
+    <Price> 8.30</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Tri -Star Power Ltd.  </Script>
+    <Price> 4</Price>
+  </Scripts>
+</xml>

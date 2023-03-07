@@ -1,0 +1,34 @@
+E:\codes\k190354_Q3\k190354_Q3\bin\Debug\net6.0-windows\k190354_Q3.exe
+E:\codes\k190354_Q3\k190354_Q3\bin\Debug\net6.0-windows\k190354_Q3.deps.json
+E:\codes\k190354_Q3\k190354_Q3\bin\Debug\net6.0-windows\k190354_Q3.runtimeconfig.json
+E:\codes\k190354_Q3\k190354_Q3\bin\Debug\net6.0-windows\k190354_Q3.dll
+E:\codes\k190354_Q3\k190354_Q3\bin\Debug\net6.0-windows\k190354_Q3.pdb
+E:\codes\k190354_Q3\k190354_Q3\obj\Debug\net6.0-windows\k190354_Q3.csproj.AssemblyReference.cache
+E:\codes\k190354_Q3\k190354_Q3\obj\Debug\net6.0-windows\k190354_Q3.Form1.resources
+E:\codes\k190354_Q3\k190354_Q3\obj\Debug\net6.0-windows\k190354_Q3.csproj.GenerateResource.cache
+E:\codes\k190354_Q3\k190354_Q3\obj\Debug\net6.0-windows\k190354_Q3.GeneratedMSBuildEditorConfig.editorconfig
+E:\codes\k190354_Q3\k190354_Q3\obj\Debug\net6.0-windows\k190354_Q3.AssemblyInfoInputs.cache
+E:\codes\k190354_Q3\k190354_Q3\obj\Debug\net6.0-windows\k190354_Q3.AssemblyInfo.cs
+E:\codes\k190354_Q3\k190354_Q3\obj\Debug\net6.0-windows\k190354_Q3.csproj.CoreCompileInputs.cache
+E:\codes\k190354_Q3\k190354_Q3\obj\Debug\net6.0-windows\k190354_Q3.dll
+E:\codes\k190354_Q3\k190354_Q3\obj\Debug\net6.0-windows\refint\k190354_Q3.dll
+E:\codes\k190354_Q3\k190354_Q3\obj\Debug\net6.0-windows\k190354_Q3.pdb
+E:\codes\k190354_Q3\k190354_Q3\obj\Debug\net6.0-windows\k190354_Q3.genruntimeconfig.cache
+E:\codes\k190354_Q3\k190354_Q3\obj\Debug\net6.0-windows\ref\k190354_Q3.dll
+D:\Fast\BS (CS)\Semester 7\IPT\k190354_A1\k190354_Q3\k190354_Q3\bin\Debug\net6.0-windows\k190354_Q3.exe
+D:\Fast\BS (CS)\Semester 7\IPT\k190354_A1\k190354_Q3\k190354_Q3\bin\Debug\net6.0-windows\k190354_Q3.deps.json
+D:\Fast\BS (CS)\Semester 7\IPT\k190354_A1\k190354_Q3\k190354_Q3\bin\Debug\net6.0-windows\k190354_Q3.runtimeconfig.json
+D:\Fast\BS (CS)\Semester 7\IPT\k190354_A1\k190354_Q3\k190354_Q3\bin\Debug\net6.0-windows\k190354_Q3.dll
+D:\Fast\BS (CS)\Semester 7\IPT\k190354_A1\k190354_Q3\k190354_Q3\bin\Debug\net6.0-windows\k190354_Q3.pdb
+D:\Fast\BS (CS)\Semester 7\IPT\k190354_A1\k190354_Q3\k190354_Q3\obj\Debug\net6.0-windows\k190354_Q3.csproj.AssemblyReference.cache
+D:\Fast\BS (CS)\Semester 7\IPT\k190354_A1\k190354_Q3\k190354_Q3\obj\Debug\net6.0-windows\k190354_Q3.Form1.resources
+D:\Fast\BS (CS)\Semester 7\IPT\k190354_A1\k190354_Q3\k190354_Q3\obj\Debug\net6.0-windows\k190354_Q3.csproj.GenerateResource.cache
+D:\Fast\BS (CS)\Semester 7\IPT\k190354_A1\k190354_Q3\k190354_Q3\obj\Debug\net6.0-windows\k190354_Q3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fast\BS (CS)\Semester 7\IPT\k190354_A1\k190354_Q3\k190354_Q3\obj\Debug\net6.0-windows\k190354_Q3.AssemblyInfoInputs.cache
+D:\Fast\BS (CS)\Semester 7\IPT\k190354_A1\k190354_Q3\k190354_Q3\obj\Debug\net6.0-windows\k190354_Q3.AssemblyInfo.cs
+D:\Fast\BS (CS)\Semester 7\IPT\k190354_A1\k190354_Q3\k190354_Q3\obj\Debug\net6.0-windows\k190354_Q3.csproj.CoreCompileInputs.cache
+D:\Fast\BS (CS)\Semester 7\IPT\k190354_A1\k190354_Q3\k190354_Q3\obj\Debug\net6.0-windows\k190354_Q3.dll
+D:\Fast\BS (CS)\Semester 7\IPT\k190354_A1\k190354_Q3\k190354_Q3\obj\Debug\net6.0-windows\refint\k190354_Q3.dll
+D:\Fast\BS (CS)\Semester 7\IPT\k190354_A1\k190354_Q3\k190354_Q3\obj\Debug\net6.0-windows\k190354_Q3.pdb
+D:\Fast\BS (CS)\Semester 7\IPT\k190354_A1\k190354_Q3\k190354_Q3\obj\Debug\net6.0-windows\k190354_Q3.genruntimeconfig.cache
+D:\Fast\BS (CS)\Semester 7\IPT\k190354_A1\k190354_Q3\k190354_Q3\obj\Debug\net6.0-windows\ref\k190354_Q3.dll

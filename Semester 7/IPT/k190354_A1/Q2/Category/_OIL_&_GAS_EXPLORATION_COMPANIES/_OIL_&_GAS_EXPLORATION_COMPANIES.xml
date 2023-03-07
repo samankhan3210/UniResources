@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <Scripts>
+    <Script>Mari Petroleum Company Ltd.  </Script>
+    <Price> 1599.28</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Oil &amp; Gas Development Company Ltd.  </Script>
+    <Price> 74.59</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan Oilfields Limited.  </Script>
+    <Price> 351.84</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan Petroleum Limited.  </Script>
+    <Price> 58.30</Price>
+  </Scripts>
+</xml>
