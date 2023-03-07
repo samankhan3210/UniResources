@@ -1,0 +1,15 @@
+E:\codes\k190354_Q1\k190354_Q1\obj\Debug\net6.0\k190354_IPT_1.csproj.AssemblyReference.cache
+E:\codes\k190354_Q1\k190354_Q1\obj\Debug\net6.0\k190354_IPT_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\codes\k190354_Q1\k190354_Q1\obj\Debug\net6.0\k190354_IPT_1.AssemblyInfoInputs.cache
+E:\codes\k190354_Q1\k190354_Q1\obj\Debug\net6.0\k190354_IPT_1.AssemblyInfo.cs
+E:\codes\k190354_Q1\k190354_Q1\obj\Debug\net6.0\k190354_IPT_1.csproj.CoreCompileInputs.cache
+E:\codes\k190354_Q1\k190354_Q1\bin\Debug\net6.0\k190354_IPT_1.exe
+E:\codes\k190354_Q1\k190354_Q1\bin\Debug\net6.0\k190354_IPT_1.deps.json
+E:\codes\k190354_Q1\k190354_Q1\bin\Debug\net6.0\k190354_IPT_1.runtimeconfig.json
+E:\codes\k190354_Q1\k190354_Q1\bin\Debug\net6.0\k190354_IPT_1.dll
+E:\codes\k190354_Q1\k190354_Q1\bin\Debug\net6.0\k190354_IPT_1.pdb
+E:\codes\k190354_Q1\k190354_Q1\obj\Debug\net6.0\k190354_IPT_1.dll
+E:\codes\k190354_Q1\k190354_Q1\obj\Debug\net6.0\refint\k190354_IPT_1.dll
+E:\codes\k190354_Q1\k190354_Q1\obj\Debug\net6.0\k190354_IPT_1.pdb
+E:\codes\k190354_Q1\k190354_Q1\obj\Debug\net6.0\k190354_IPT_1.genruntimeconfig.cache
+E:\codes\k190354_Q1\k190354_Q1\obj\Debug\net6.0\ref\k190354_IPT_1.dll
