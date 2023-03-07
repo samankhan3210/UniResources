@@ -1,0 +1,15 @@
+E:\codes\k190354_Q3\bin\Debug\net6.0\k190354_Q3.exe
+E:\codes\k190354_Q3\bin\Debug\net6.0\k190354_Q3.deps.json
+E:\codes\k190354_Q3\bin\Debug\net6.0\k190354_Q3.runtimeconfig.json
+E:\codes\k190354_Q3\bin\Debug\net6.0\k190354_Q3.dll
+E:\codes\k190354_Q3\bin\Debug\net6.0\k190354_Q3.pdb
+E:\codes\k190354_Q3\obj\Debug\net6.0\k190354_Q3.csproj.AssemblyReference.cache
+E:\codes\k190354_Q3\obj\Debug\net6.0\k190354_Q3.GeneratedMSBuildEditorConfig.editorconfig
+E:\codes\k190354_Q3\obj\Debug\net6.0\k190354_Q3.AssemblyInfoInputs.cache
+E:\codes\k190354_Q3\obj\Debug\net6.0\k190354_Q3.AssemblyInfo.cs
+E:\codes\k190354_Q3\obj\Debug\net6.0\k190354_Q3.csproj.CoreCompileInputs.cache
+E:\codes\k190354_Q3\obj\Debug\net6.0\k190354_Q3.dll
+E:\codes\k190354_Q3\obj\Debug\net6.0\refint\k190354_Q3.dll
+E:\codes\k190354_Q3\obj\Debug\net6.0\k190354_Q3.pdb
+E:\codes\k190354_Q3\obj\Debug\net6.0\k190354_Q3.genruntimeconfig.cache
+E:\codes\k190354_Q3\obj\Debug\net6.0\ref\k190354_Q3.dll

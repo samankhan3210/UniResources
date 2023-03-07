@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "k190354_Q2": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
